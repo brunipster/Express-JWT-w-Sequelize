@@ -23,7 +23,7 @@ Express project with Sequelize(SQLite3) using JWT
 
 Install node modules
 
-` npm init `
+` npm install `
 
 Migrate Database 🎈
 
